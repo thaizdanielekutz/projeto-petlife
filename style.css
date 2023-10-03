@@ -126,6 +126,9 @@ h2 {
   overflow: hidden;
 }
 
+.duvida.ativa .paragraph {
+}
+
 footer {
   background-color: rgba(255, 152, 108, 0.25);
   display: flex;
