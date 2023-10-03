@@ -127,6 +127,9 @@ h2 {
 }
 
 .duvida.ativa .paragraph {
+  height: fit-content;
+  opacity: 1;
+  padding: 24px;
 }
 
 footer {
