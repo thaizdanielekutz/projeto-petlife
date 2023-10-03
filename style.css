@@ -107,6 +107,7 @@ h2 {
   border-radius: 8px;
   cursor: pointer;
   padding: 24px;
+  font-size: 1rem;
 }
 
 .duvida img {
@@ -121,9 +122,10 @@ h2 {
   border-radius: 0 0 8px 8px;
   margin-top: -8px;
   padding: 0px 24px;
-  height: 0;
-  opacity: 0;
   overflow: hidden;
+  opacity: 0;
+  height: 0;
+  transition: 0.2s;
 }
 
 .duvida.ativa .paragraph {
